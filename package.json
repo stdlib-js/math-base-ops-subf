@@ -48,7 +48,6 @@
     "@stdlib/bench": "^0.0.x",
     "@stdlib/constants-float32-ninf": "^0.0.x",
     "@stdlib/constants-float32-pinf": "^0.0.x",
-    "@stdlib/math-base-assert-is-nan": "^0.0.x",
     "@stdlib/math-base-assert-is-nanf": "^0.0.x",
     "@stdlib/math-base-assert-is-negative-zerof": "^0.0.x",
     "@stdlib/math-base-assert-is-positive-zerof": "^0.0.x",
