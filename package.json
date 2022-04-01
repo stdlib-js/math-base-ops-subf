@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/math-base-ops-subf",
+  "version": "0.0.0",
+  "description": "Subtract two single-precision floating-point numbers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-ops-subf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "difference",
+    "sub",
+    "subtraction",
+    "minus",
+    "number",
+    "float",
+    "single",
+    "single-precision"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
