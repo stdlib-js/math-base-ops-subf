@@ -186,9 +186,9 @@ float stdlib_base_sub( const float x, const float y );
 #include "stdlib/math/base/ops/subf.h"
 #include <stdio.h>
 
-int main() {
-    float x[] = { 3.14f, -3.14f, 0.0f, 0.0f/0.0f };
-    float y[] = { 3.14f, -3.14f, -0.0f, 0.0f/0.0f };
+int main( void ) {
+    const float x[] = { 3.14f, -3.14f, 0.0f, 0.0f/0.0f };
+    const float y[] = { 3.14f, -3.14f, -0.0f, 0.0f/0.0f };
 
     float z;
     int i;
@@ -268,7 +268,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
