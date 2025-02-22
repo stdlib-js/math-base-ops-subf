@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-21)
+## Unreleased (2025-02-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`adbcf39`](https://github.com/stdlib-js/stdlib/commit/adbcf39b36d49a9c2876bdc2848e9dac842cf90f) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`92761ec`](https://github.com/stdlib-js/stdlib/commit/92761ec746d55b5cd6d48a06276b5e1bffe2cfb0) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7ddbcbe`](https://github.com/stdlib-js/stdlib/commit/7ddbcbe83f92390dc20a10164b3b775111aa7267) - **docs:** fix typos in `math/base/ops/subf` [(#5290)](https://github.com/stdlib-js/stdlib/pull/5290) _(by Gururaj Gurram)_
 -   [`2752fe3`](https://github.com/stdlib-js/stdlib/commit/2752fe3ed80c146e8a122c1e7ed442099ba367bc) - **refactor:** update paths _(by Gururaj Gurram)_
